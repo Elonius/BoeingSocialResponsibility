@@ -115,12 +115,10 @@ Boeing believes that the employment relationship should be voluntary, and the te
 -->
 
 # Corprate Beliefs - Diversity and Inclusion
-The company's commitment to diversity means providing a work environment for all employees that is
-
-- welcoming
-- respectful
-- engaging
-
+The company's commitment to diversity means providing a work environment for all employees that is  
+-welcoming  
+-respectful  
+-engaging  
 with opportunities for personal and professional development.
 
 <!-- ^ Talking points ^
@@ -132,15 +130,23 @@ Having diverse employees, business partners and community relationships is vital
 # Negative Press and Lawsuits
 - New lawsuit alleges that Boeing put profit over people with 737 Max
   - 737 MAX MCAS elevation angle correction errors leading to 2 crashes(364 deaths) and the banning of the plane in many countries  
+  
 - South Carolina Factory producing 787 Dreamliners  
   - Production very rushed, safety concerns ignored by mgmt
   - Metal shavings, string of lights and a ladder all left inside the bodies of planes that the Federal Aviation Administration (F.A.A.) took on test flights
+  
 - Boeing Co. was accused of negligence tied to a wildfire that tore through Malibu, California, in November and that purportedly started on the grounds of the nearby, disused Rocketdyne testing site.
 
 # Negative Press and Lawsuits (cont'd)
 - "Boeing employee wins racial harassment, discrimination lawsuit against company, which has 5 lawsuits on the way", 15 Jul 2018
+
 - Boeing wrongfully fired an employee who sounded alrms over repeated alleged safety violations
+  
 - Boeing to pay $57 million to settle a lawsuit in which employees accused the company of mismanaging their 401(k) retirement plans
+
+<!-- ^ Talking points ^ 
+TODO: Add talking points for each lawsuit
+-->
 
 # Sources
 ### Corporate Beliefs
