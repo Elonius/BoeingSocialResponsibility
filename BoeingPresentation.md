@@ -130,17 +130,28 @@ Having diverse employees, business partners and community relationships is vital
 -->
 
 # Negative Press and Lawsuits
-- 737 MAX MCAS elevation angle correction errors leading to 2 crashes and the banning of the plane in many countries  
+- New lawsuit alleges that Boeing put profit over people with 737 Max
+  - 737 MAX MCAS elevation angle correction errors leading to 2 crashes(364 deaths) and the banning of the plane in many countries  
 - South Carolina Factory producing 787 Dreamliners  
   - Production very rushed, safety concerns ignored by mgmt
   - Metal shavings, string of lights and a ladder all left inside the bodies of planes that the Federal Aviation Administration (F.A.A.) took on test flights
 - Boeing Co. was accused of negligence tied to a wildfire that tore through Malibu, California, in November and that purportedly started on the grounds of the nearby, disused Rocketdyne testing site.
 
-# Negative Press and Lawsuits (cont'd
+# Negative Press and Lawsuits (cont'd)
 - "Boeing employee wins racial harassment, discrimination lawsuit against company, which has 5 lawsuits on the way", 15 Jul 2018
 - Boeing wrongfully fired an employee who sounded alrms over repeated alleged safety violations
 - Boeing to pay $57 million to settle a lawsuit in which employees accused the company of mismanaging their 401(k) retirement plans
 
 # Sources
 ### Corporate Beliefs
-http://www.boeing.com/principles/
+- http://www.boeing.com/principles/  
+
+### Negative Press and Lawsuits
+- https://www.miamiherald.com/news/nation-world/national/article229075449.html
+- https://www.bloomberg.com/news/articles/2019-02-06/boeing-sued-for-negligence-in-wildfire-that-devastated-malibu  
+
+# Sources (cont'd)
+### Negative Press and Lawsuits
+- https://www.business-humanrights.org/en/usa-boeing-employee-wins-racial-discrimination-harassment-lawsuit-against-co  
+- https://abcnews4.com/news/local/lawsuit-boeing-lied-on-inspection-records-to-fire-union-worker-who-voiced-safety-concerns  
+- https://www.reuters.com/article/us-boeing-401k-settlement-idUSKCN0SU2LD20151105
