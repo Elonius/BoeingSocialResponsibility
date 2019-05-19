@@ -5,14 +5,13 @@ author:
 - Shawn McCaughan
 - Sebastien Maillet
 
-theme: Montpellier
-colortheme: spruce
+theme: Szeged
+colortheme: whale
 ---
 
 ![](https://live.staticflickr.com/2915/14629490902_963a3d245a_b.jpg, "Boeing Logo")
 
-<!-- ^ Talking points ^ -->
-<!-- 
+<!-- ^ Talking points ^ 
 American multinational company  
 Founded by William Boeing in 1916  
 Among largest global aerospace manufacturers  
@@ -63,12 +62,16 @@ This year, Boeing has adopted a new environment strategy to guide the company’
 ##
 > Over the past five years, Boeing reduced greenhouse gases, water use, hazardous waste and solid waste sent to landfill by up to 26 percent.
 
+<!-- ^ Talking points ^ 
+Boeing's commitment to environmental leadership is seen in energy efficient products and services that set the standard for reductions in fuel use, emissions and community noise.
+Over the past five years, Boeing reduced greenhouse gases, water use, hazardous waste and solid waste sent to landfill by up to 26 percent.
+-->
+
 # Corporate Beliefs - Environmental
 ![Looking ahead](https://bit.ly/2w4HME9, "Boeing reduction targets")
 
 <!-- ^ Talking points ^ 
-The commitment to environmental leadership is seen in energy efficient products and services that set the standard for reductions in fuel use, emissions and community noise. It’s in the way we operate our factories, offices and other facilities. Over the past five years, Boeing reduced greenhouse gases, water use, hazardous waste and solid waste sent to landfill by up to 26 percent.
-Looking ahead, Boeing’s business will be guided by a bold new strategy that further improves our environmental performance and footprint. It includes investing in advanced technologies, such as hybrid-electric aircraft propulsion, biofuel and chemical alternatives. 
+Looking ahead, Boeing has a bold new strategy that further improves their environmental performance and footprint. It includes investing in advanced technologies, such as hybrid-electric aircraft propulsion, biofuel and chemical alternatives. 
 The new strategy includes performance targets that will lead to substantial improvements in the company’s environmental footprint: <EnvironmentalTarget.png>
 -->
 
@@ -78,18 +81,18 @@ The new strategy includes performance targets that will lead to substantial impr
 - Compliance  
 <!-- TODO: Push image to the right -->
 ![](https://bit.ly/2Wc6Qrp, "Compliance Risk Management board"){width=30%}
-- Speaking up <- Lawsuit
-- Anti-Corruption Program <- Lawsuit
+- Speaking up <!-- <- Lawsuit -->
+- Anti-Corruption Program <!-- <- Lawsuit -->
 <!-- ^ Talking points ^
-At Boeing, our stance on ethical business conduct is simple: do the right thing, every time, no exceptions. (737 Max 8 tells me this is a lie..) 
+At Boeing, their stance on ethical business conduct is simple: do the right thing, every time, no exceptions. (737 Max 8 tells me this is a lie..) 
 Doing the right thing for our employees, customers, stakeholders and communities has helped us earn trust and build partnerships that will drive us forward in our next century, and beyond. <-lol
-Ensuring that Boeing’s enduring values remain foundational to our work requires a daily commitment from every employee. Our robust ethics and compliance program is focused on integrity, respect, accountability and inclusion—the same values that lead to strong business outcomes. 
 
-- Leadership Matters: Initiative that focuses on anabling a culture of openness and accountability in order to sustain an ethical and compliant work environment and enhance business performance
+- Leadership Matters: Initiative that focuses on enabling a culture of openness and accountability in order to sustain an ethical and compliant work environment and enhance business performance
 
 - Compliance: To ensure that Boeing maintains effectiveness in the ongoing success of the company, compliance monitoring and assessments are built into all levels of the business.
 
-- Boeing believes speaking up is a cornerstone for building an open and accountable workplace culture, and creating this type of environment where employees are comfortable raising issues and concerns without fear of retaliation enables openness which leads to improved business performance and inspire greater innovation. Some of the confidential and anonymous methods(when preferred) include contacting local ethics advisors, toll-free phone numbers, accessing web-based portals, etc..
+- Boeing believes speaking up is a cornerstone for building an open and accountable workplace culture. Some of the confidential and anonymous methods(when preferred) include contacting local ethics advisors, toll-free phone numbers, accessing web-based portals, etc..
+Creating this type of environment where employees are comfortable raising issues and concerns without fear of retaliation enables openness which leads to improved business performance and inspire greater innovation. (a couple recent lawsuits tell me this is a lie..)
 
 - Anti-Corruption Program: Boeing strictly forbids bribery and corruption of any kind. It is imperative that we compete on the merits alone. Integrity is a core company value. This guidance is clear that we must never sacrifice our ethical principles to win or keep business—that no business is worth it.(supporting the saudi's tell me this is a lie..)
 -->
@@ -101,17 +104,16 @@ Ensuring that Boeing’s enduring values remain foundational to our work require
 - Slavery, Human Trafficking, Forced labor and Child labor
 <!-- 
 ## Non-Discrimination and Harassment
-It is the policy of The Boeing Company to attract and retain the best qualified people available without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, or veteran status.
+It is in Boeing's policy to attract and retain the best qualified people available without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, or veteran status.
 
 ## Environment, Health & Safety
-We are committed to providing employees with a safe and healthful workplace, protecting the environment wherever we conduct business and striving for excellence in safety, health and environment stewardship.
+They are committed to providing employees with a safe and healthful workplace, protecting the environment wherever they conduct business and striving for excellence in safety, health and environment stewardship.
 
-# Corporate Beliefs - Human Rights
 ## Work Environment and Compensation
-We are committed to promoting a work environment that fosters communication, productivity, creativity, teamwork, and employee engagement. As a global company, we seek to provide employees with compensation and benefits that are fair and equitable for the type of work and geographic location (local market) where the work is being performed, and competitive with other world-class companies.  
+They are committed to promoting a work environment that fosters communication, productivity, creativity, teamwork, and employee engagement. Boeing also seeks to provide employees with compensation and benefits that are fair for the type of work and geographic location and competitive with other world-class companies.  
 
 ## Slavery, Human Trafficking, Forced labor and Child labor
-Boeing believes that the employment relationship should be voluntary, and the terms of employment must comply with applicable laws and regulations. We are therefore opposed to slavery, human trafficking, forced labor and child labor and are committed to complying with applicable laws prohibiting such exploitation.
+Boeing believes that the employment relationship should be voluntary, and the terms of employment must comply with applicable laws and regulations. They are opposed to slavery, human trafficking, forced labor and child labor and are committed to complying with applicable laws prohibiting such exploitation.
 -->
 
 # Corprate Beliefs - Diversity and Inclusion
@@ -124,7 +126,7 @@ with opportunities for personal and professional development.
 <!-- ^ Talking points ^
 This in turn increases productivity, quality, creativity and innovation. 
 
-Having diverse employees, business partners and community relationships is vital to creating advanced aerospace products and services for our diverse customers around the world.
+Having diverse employees, business partners and community relationships is vital to creating advanced aerospace products and services for their diverse customers around the world.
 -->
 
 # Negative Press and Lawsuits
