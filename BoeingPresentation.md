@@ -177,7 +177,7 @@ Having diverse employees, business partners and community relationships is vital
 <!-- Talk about their corporate beliefs from the previous slide where they said they were promoting a safe work environment -->
   
 # Lawsuits and Controversies
-## **Wildfire Negligence Lawsuit **
+## **Wildfire Negligence Lawsuit**
 
 Boeing Co. was accused of negligence tied to a wildfire that tore through Malibu, California, in November and that purportedly started on the grounds of the nearby, disused Rocketdyne testing site.
 <!-- The site was abandoned and Boeing wasn't taking any steps to keep the site safe from dry brush buildup. The Fire killed 3, burned about 100,000 acres and 
