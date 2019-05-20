@@ -171,15 +171,21 @@ TODO: Add talking points for each lawsuit
 -->
 
 # Sources
-### Corporate Beliefs
-- http://www.boeing.com/principles/  
+### Corporate Beliefs 
+Our Principles. (n.d.). Retrieved May 20, 2019, from http://www.boeing.com/principles/
+
 
 ### Negative Press and Lawsuits
-- https://www.miamiherald.com/news/nation-world/national/article229075449.html
-- https://www.bloomberg.com/news/articles/2019-02-06/boeing-sued-for-negligence-in-wildfire-that-devastated-malibu  
+
+Duncan, C. (2019, April 10). Lawsuits pile up against Boeing in two 737 Max crashes. Retrieved May 20, 2019, from https://www.miamiherald.com/news/nation-world/national/article229075449.html
+
+Pettersson, E. (n.d.). Boeing Sued for Negligence in Wildfire That Devastated Malibu. Retrieved May 20, 2019, from https://www.bloomberg.com/news/articles/2019-02-06/boeing-sued-for-negligence-in-wildfire-that-devastated-malibu
 
 # Sources (cont'd)
 ### Negative Press and Lawsuits
-- https://www.business-humanrights.org/en/usa-boeing-employee-wins-racial-discrimination-harassment-lawsuit-against-co  
-- https://abcnews4.com/news/local/lawsuit-boeing-lied-on-inspection-records-to-fire-union-worker-who-voiced-safety-concerns  
-- https://www.reuters.com/article/us-boeing-401k-settlement-idUSKCN0SU2LD20151105
+
+USA: Boeing employee wins racial discrimination & harassment lawsuit against co. (2018, July 17). Retrieved from https://www.business-humanrights.org/en/usa-boeing-employee-wins-racial-discrimination-harassment-lawsuit-against-co
+
+Tripp, D. (n.d.). Lawsuit: Boeing lied on inspection records to fire union worker who voiced safety concerns. Retrieved May 20, 2019, from https://abcnews4.com/news/local/lawsuit-boeing-lied-on-inspection-records-to-fire-union-worker-who-voiced-safety-concerns
+
+Boeing to pay $57 million to settle 401(k) lawsuit. (2015, November 05). Retrieved May 20, 2019, from https://www.reuters.com/article/us-boeing-401k-settlement-idUSKCN0SU2LD20151105
