@@ -14,8 +14,10 @@ colortheme: whale
 <!-- ^ Talking points ^ 
 American multinational company  
 Founded by William Boeing in 1916  
+< https://upload.wikimedia.org/wikipedia/commons/4/45/William_E._Boeing.jpg >
 Among largest global aerospace manufacturers  
-Sells airplanes, rotorcraft, rockets, satellites and missiles  
+They make airplanes, rotorcraft, rockets, satellites and missiles  
+They made $101 billion last year, have 153k employees
 -->
 
 # Breakdown of criteria categories
@@ -31,10 +33,8 @@ Ranked #81
 - Philanthropy rank = 66  
 - Financial rank = 69  
 <!-- ^ Talking points ^
-- Boeing has had an amber signal since March 2017 relating to the UN Global compact principle 2.  
-- Businesses should make sure that they are not complicit in human rights abuses.  
-- The alert signifies the severity, with amber being the middle.
--Accused by NGOs of providing support to a saudi-led coalition violating international humanitarian law in Yemen. 
+- Boeing has had an amber signal since March 2017 relating to the UN Global compact principle 2, which is under the human rights principle.
+- Accused by NGOs of providing support to a saudi-led coalition violating international humanitarian law in Yemen. 
 -->
 
 # Corporate Beliefs
@@ -49,6 +49,8 @@ This year, Boeing has adopted a new environmental strategy to guide the company�
 - Strive for excellence in sustainability  
 - Inspire collaboration  
 <!-- ^ Talking points ^
+This year, Boeing has adopted a new environmental strategy to guide the company’s business through 2025 as it continues to:  
+
 -Design, manufacture and deliver innovative aerospace products and services that will improve the company’s environmental footprint.
 -Strive for excellence in sustainability in our operations and supply base.
 -Inspire collaboration with partners around the world to advance innovative solutions for local and global environmental needs.
@@ -129,17 +131,17 @@ with opportunities for personal and professional development.
 
 <!-- ^ Talking points ^
 This in turn increases productivity, quality, creativity and innovation. 
-
 Having diverse employees, business partners and community relationships is vital to creating advanced aerospace products and services for their diverse customers around the world.
 -->
 
 # Negative Press and Lawsuits
 - New lawsuit alleges that Boeing put profit over people with 737 Max
-  - 737 MAX MCAS elevation angle correction errors leading to 2 crashes(364 deaths) and the banning of the plane in many countries  
+  - 737 MAX 8 MCAS elevation angle correction errors leading to 2 crashes(346 deaths) and the banning of the plane in many countries  
 
 <!-- 
 - Boeing launched the 737 MAX with a critical software error
-- The engines of the 737 are placed further towards the nose of the plane, which causes the plane to tilt upwards slightly
+- The engines of the 737 are placed higher up on the wing to give them the clearance they needed
+- During takeoff, the nose tended to point to far upward
 - A plane that is flying upward at an angle like that can stall
 - The MCAS tries to correct that upward angle using software
 - the two gauges that report the angle of the plane reported DIFFERENT NUMBERS
@@ -171,21 +173,15 @@ TODO: Add talking points for each lawsuit
 -->
 
 # Sources
-### Corporate Beliefs 
-Our Principles. (n.d.). Retrieved May 20, 2019, from http://www.boeing.com/principles/
-
+### Corporate Beliefs
+- http://www.boeing.com/principles/  
 
 ### Negative Press and Lawsuits
-
-Duncan, C. (2019, April 10). Lawsuits pile up against Boeing in two 737 Max crashes. Retrieved May 20, 2019, from https://www.miamiherald.com/news/nation-world/national/article229075449.html
-
-Pettersson, E. (n.d.). Boeing Sued for Negligence in Wildfire That Devastated Malibu. Retrieved May 20, 2019, from https://www.bloomberg.com/news/articles/2019-02-06/boeing-sued-for-negligence-in-wildfire-that-devastated-malibu
+- https://www.miamiherald.com/news/nation-world/national/article229075449.html
+- https://www.bloomberg.com/news/articles/2019-02-06/boeing-sued-for-negligence-in-wildfire-that-devastated-malibu  
 
 # Sources (cont'd)
 ### Negative Press and Lawsuits
-
-USA: Boeing employee wins racial discrimination & harassment lawsuit against co. (2018, July 17). Retrieved from https://www.business-humanrights.org/en/usa-boeing-employee-wins-racial-discrimination-harassment-lawsuit-against-co
-
-Tripp, D. (n.d.). Lawsuit: Boeing lied on inspection records to fire union worker who voiced safety concerns. Retrieved May 20, 2019, from https://abcnews4.com/news/local/lawsuit-boeing-lied-on-inspection-records-to-fire-union-worker-who-voiced-safety-concerns
-
-Boeing to pay $57 million to settle 401(k) lawsuit. (2015, November 05). Retrieved May 20, 2019, from https://www.reuters.com/article/us-boeing-401k-settlement-idUSKCN0SU2LD20151105
+- https://www.business-humanrights.org/en/usa-boeing-employee-wins-racial-discrimination-harassment-lawsuit-against-co  
+- https://abcnews4.com/news/local/lawsuit-boeing-lied-on-inspection-records-to-fire-union-worker-who-voiced-safety-concerns  
+- https://www.reuters.com/article/us-boeing-401k-settlement-idUSKCN0SU2LD20151105
