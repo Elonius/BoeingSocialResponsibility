@@ -9,6 +9,7 @@ theme: Szeged
 colortheme: whale
 ---
 
+# Intro to Boeing
 ![](https://live.staticflickr.com/2915/14629490902_963a3d245a_b.jpg, "Boeing Logo")
 
 <!-- ^ Talking points ^ 
@@ -36,6 +37,9 @@ Ranked #81
 - Boeing has had an amber signal since March 2017 relating to the UN Global compact principle 2, which is under the human rights principle.
 - Accused by NGOs of providing support to a saudi-led coalition violating international humanitarian law in Yemen. 
 -->
+
+# Corporate Beliefs
+## Make Boeing Great Again
 
 # Corporate Beliefs
 ## Boeing's vision
@@ -138,6 +142,11 @@ This in turn increases productivity, quality, creativity and innovation.
 Having diverse employees, business partners and community relationships is vital to creating advanced aerospace products and services for their diverse customers around the world.
 -->
 
+
+# Lawsuits and Controversies
+## There are some big ones  
+
+
 # Boeing 737 Max 8 Lawsuit
 - New lawsuit alleges that Boeing put profit over people with 737 Max
   - 737 MAX 8 MCAS elevation angle correction errors leading to 2 crashes(346 deaths) and the banning of the plane in many countries  
@@ -156,32 +165,36 @@ Having diverse employees, business partners and community relationships is vital
 - until the plane's angle becomes too much and it stalls, or becomes too negative and nose dives to the ground
  -->
   
-# 787 Dreamliner Safety Concerns
+
+# Lawsuits and Controversies - 787 Dreamliner Safety Concerns
 - South Carolina Factory producing 787 Dreamliners  
   - Production very rushed, safety concerns ignored by mgmt
   - Metal shavings, string of lights and a ladder all left inside the bodies of planes that the Federal Aviation Administration (F.A.A.) took on test flights
 <!-- Talk about their corporate beliefs from the previous slide where they said they were promoting a safe work environment -->
   
-# Wildfire Negligence Lawsuit
+# Lawsuits and Controversies - Wildfire Negligence Lawsuit
 Boeing Co. was accused of negligence tied to a wildfire that tore through Malibu, California, in November and that purportedly started on the grounds of the nearby, disused Rocketdyne testing site.
 <!-- The site was abandoned and Boeing wasn't taking any steps to keep the site safe from dry brush buildup. The Fire killed 3, burned about 100,000 acres and 
 destroyed 1,500 structures in and around Malibu -->
 
-# Racial Harassment Lawsuit
+# Lawsuits and Controversies - Racial Harassment Lawsuit
 "Boeing employee wins racial harassment, discrimination lawsuit against company, which has 5 lawsuits on the way", 15 Jul 2018
   <!-- Boeing says proper corporate channels weren't followed, but doesn't deny the descrimination of the employee -->
 
-# Firing an Employee Over Safety Concerns
+# Lawsuits and Controversies - Firing an Employee Over Safety Concerns
 Boeing wrongfully fired an employee who sounded alarms over repeated alleged safety violations
 <!-- This firing was for an employee at the North Carolina Dreamliner factory, for a company that says safety is a priority and workers should be able to speak their mind
 they sure haven't been letting employees speak their mind about safety concerns -->
   
-# 57 Million Dollar 401(k) Lawsuit
+# Lawsuits and Controversies - 57 Million Dollar 401(k) Lawsuit
 Boeing to pay $57 million to settle a lawsuit in which employees accused the company of mismanaging their 401(k) retirement plans
 
 <!-- ^ Talking points ^ 
 TODO: Add talking points for each lawsuit
 -->
+
+# Conclusion
+## Boeing isn't that good
 
 # Sources
 Our Principles. (n.d.). Retrieved May 20, 2019, from http://www.boeing.com/principles/   
