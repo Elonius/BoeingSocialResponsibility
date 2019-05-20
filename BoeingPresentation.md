@@ -1,5 +1,5 @@
 ---
-title: Social Responsibility
+title: Corporate Social Responsibility
 author:
 - Barrie Tomilson
 - Shawn McCaughan
