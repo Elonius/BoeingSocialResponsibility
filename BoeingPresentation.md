@@ -80,7 +80,7 @@ The new strategy includes performance targets that will lead to substantial impr
 - Leadership Matters
 - Compliance  
 <!-- TODO: Push image to the right -->
-![](http://www.boeing.com/resources/boeingdotcom/principles/ethics_and_compliance/images/ethics_crm_circle_300.png, "Compliance Risk Management board"){width=30%}
+![](https://bit.ly/2Wc6Qrp, "Compliance Risk Management board"){width=30%}
 - Speaking up <!-- <- Lawsuit -->
 - Anti-Corruption Program <!-- <- Lawsuit -->
 <!-- ^ Talking points ^
