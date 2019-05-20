@@ -147,7 +147,7 @@ Having diverse employees, business partners and community relationships is vital
 ## There are some big ones  
 
 
-# Boeing 737 Max 8 Lawsuit
+# Lawsuits and Controversies - Boeing 737 Max 8 Lawsuit
 - New lawsuit alleges that Boeing put profit over people with 737 Max
   - 737 MAX 8 MCAS elevation angle correction errors leading to 2 crashes(346 deaths) and the banning of the plane in many countries  
 
