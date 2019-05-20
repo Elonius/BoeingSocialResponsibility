@@ -80,9 +80,13 @@ The new strategy includes performance targets that will lead to substantial impr
 
 # Corporate Beliefs - Ethics and compliance
 ##
-- Leadership Matters  ![](https://bit.ly/2Wc6Qrp, "Compliance Risk Management board"){width=30%}
+- Leadership Matters  
 - Compliance  
+
+
 <!-- TODO: Push image to the right -->
+<!-- ![](https://bit.ly/2Wc6Qrp, "Compliance Risk Management board"){width=30%} -->
+
 
 - Speaking up <!-- <- Lawsuit -->
 - Anti-Corruption Program <!-- <- Lawsuit -->
@@ -138,6 +142,9 @@ Having diverse employees, business partners and community relationships is vital
 - New lawsuit alleges that Boeing put profit over people with 737 Max
   - 737 MAX 8 MCAS elevation angle correction errors leading to 2 crashes(346 deaths) and the banning of the plane in many countries  
 
+
+<!-- ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/WS_YYC_737_MAX_1.jpg/1200px-WS_YYC_737_MAX_1.jpg)
+   -->
 <!-- 
 - Boeing launched the 737 MAX with a critical software error
 - The engines of the 737 are placed higher up on the wing to give them the clearance they needed
@@ -177,18 +184,17 @@ TODO: Add talking points for each lawsuit
 -->
 
 # Sources
-### Corporate Beliefs
-Our Principles. (n.d.). Retrieved May 20, 2019, from http://www.boeing.com/principles/
+Our Principles. (n.d.). Retrieved May 20, 2019, from http://www.boeing.com/principles/   
 
-### Negative Press and Lawsuits
-Duncan, C. (2019, April 10). Lawsuits pile up against Boeing in two 737 Max crashes. Retrieved May 20, 2019, from https://www.miamiherald.com/news/nation-world/national/article229075449.html
 
-Pettersson, E. (n.d.). Boeing Sued for Negligence in Wildfire That Devastated Malibu. Retrieved May 20, 2019, from https://www.bloomberg.com/news/articles/2019-02-06/boeing-sued-for-negligence-in-wildfire-that-devastated-malibu 
+Duncan, C. (2019, April 10). Lawsuits pile up against Boeing in two 737 Max crashes. Retrieved May 20, 2019, from https://www.miamiherald.com/news/nation-world/national/article229075449.html  
+
+
+Pettersson, E. (n.d.). Boeing Sued for Negligence in Wildfire That Devastated Malibu. Retrieved May 20, 2019, from https://www.bloomberg.com/news/articles/2019-02-06/boeing-sued-for-negligence-in-wildfire-that-devastated-malibu   
 
 # Sources (cont'd)
-### Negative Press and Lawsuits
-USA: Boeing employee wins racial discrimination & harassment lawsuit against co. (2018, July 17). Retrieved from https://www.business-humanrights.org/en/usa-boeing-employee-wins-racial-discrimination-harassment-lawsuit-against-co
+USA: Boeing employee wins racial discrimination & harassment lawsuit against co. (2018, July 17). Retrieved from https://www.business-humanrights.org/en/usa-boeing-employee-wins-racial-discrimination-harassment-lawsuit-against-co  
 
-Tripp, D. (n.d.). Lawsuit: Boeing lied on inspection records to fire union worker who voiced safety concerns. Retrieved May 20, 2019, from https://abcnews4.com/news/local/lawsuit-boeing-lied-on-inspection-records-to-fire-union-worker-who-voiced-safety-concerns
+Tripp, D. (n.d.). Lawsuit: Boeing lied on inspection records to fire union worker who voiced safety concerns. Retrieved May 20, 2019, from https://abcnews4.com/news/local/lawsuit-boeing-lied-on-inspection-records-to-fire-union-worker-who-voiced-safety-concerns  
 
-Boeing to pay $57 million to settle 401(k) lawsuit. (2015, November 05). Retrieved May 20, 2019, from https://www.reuters.com/article/us-boeing-401k-settlement-idUSKCN0SU2LD20151105
+Boeing to pay $57 million to settle 401(k) lawsuit. (2015, November 05). Retrieved May 20, 2019, from https://www.reuters.com/article/us-boeing-401k-settlement-idUSKCN0SU2LD20151105  
