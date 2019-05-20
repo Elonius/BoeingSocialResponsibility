@@ -31,8 +31,9 @@ Ranked #81
 - Philanthropy rank = 66  
 - Financial rank = 69  
 <!-- ^ Talking points ^
--Amber signal since March 2017 relating to the UN Global compact principle 2.  
-Businesses should make sure that they are not complicit in human rights abuses.  
+- Boeing has had an amber signal since March 2017 relating to the UN Global compact principle 2.  
+- Businesses should make sure that they are not complicit in human rights abuses.  
+- The alert signifies the severity, with amber being the middle.
 -Accused by NGOs of providing support to a saudi-led coalition violating international humanitarian law in Yemen. 
 -->
 
@@ -42,7 +43,7 @@ Businesses should make sure that they are not complicit in human rights abuses.
 > "The Boeing Vision is an expression of our company’s purpose and values, designed to inspire and focus all employees on a shared future and to reaffirm that, together, we can meet the challenges that lie ahead."
 
 # Corporate Beliefs - Boeing's vision
-This year, Boeing has adopted a new environment strategy to guide the company’s business through 2025 as it continues to:  
+This year, Boeing has adopted a new environmental strategy to guide the company’s business through 2025 as it continues to:  
 
 - Improve the company's environmental footprint  
 - Strive for excellence in sustainability  
@@ -92,6 +93,8 @@ Doing the right thing for our employees, customers, stakeholders and communities
 - Compliance: To ensure that Boeing maintains effectiveness in the ongoing success of the company, compliance monitoring and assessments are built into all levels of the business.
 
 - Boeing believes speaking up is a cornerstone for building an open and accountable workplace culture. Some of the confidential and anonymous methods(when preferred) include contacting local ethics advisors, toll-free phone numbers, accessing web-based portals, etc..
+
+
 Creating this type of environment where employees are comfortable raising issues and concerns without fear of retaliation enables openness which leads to improved business performance and inspire greater innovation. (a couple recent lawsuits tell me this is a lie..)
 
 - Anti-Corruption Program: Boeing strictly forbids bribery and corruption of any kind. It is imperative that we compete on the merits alone. Integrity is a core company value. This guidance is clear that we must never sacrifice our ethical principles to win or keep business—that no business is worth it.(supporting the saudi's tell me this is a lie..)
@@ -108,6 +111,7 @@ It is in Boeing's policy to attract and retain the best qualified people availab
 
 ## Environment, Health & Safety
 They are committed to providing employees with a safe and healthful workplace, protecting the environment wherever they conduct business and striving for excellence in safety, health and environment stewardship.
+
 
 ## Work Environment and Compensation
 They are committed to promoting a work environment that fosters communication, productivity, creativity, teamwork, and employee engagement. Boeing also seeks to provide employees with compensation and benefits that are fair for the type of work and geographic location and competitive with other world-class companies.  
@@ -132,17 +136,33 @@ Having diverse employees, business partners and community relationships is vital
 # Negative Press and Lawsuits
 - New lawsuit alleges that Boeing put profit over people with 737 Max
   - 737 MAX MCAS elevation angle correction errors leading to 2 crashes(364 deaths) and the banning of the plane in many countries  
+
+<!-- 
+- Boeing launched the 737 MAX with a critical software error
+- The engines of the 737 are placed further towards the nose of the plane, which causes the plane to tilt upwards slightly
+- A plane that is flying upward at an angle like that can stall
+- The MCAS tries to correct that upward angle using software
+- the two gauges that report the angle of the plane reported DIFFERENT NUMBERS
+- This causes the MCAS to engage too frequently, and at incorrect times. The pilots spend most of the flight trying to fight the upward and downward pitching of the plane
+- until the plane's angle becomes too much and it stalls, or becomes too negative and nose dives to the ground
+ -->
   
 - South Carolina Factory producing 787 Dreamliners  
   - Production very rushed, safety concerns ignored by mgmt
   - Metal shavings, string of lights and a ladder all left inside the bodies of planes that the Federal Aviation Administration (F.A.A.) took on test flights
+<!-- Talk about their corporate beliefs from the previous slide where they said they were promoting a safe work environment -->
   
 - Boeing Co. was accused of negligence tied to a wildfire that tore through Malibu, California, in November and that purportedly started on the grounds of the nearby, disused Rocketdyne testing site.
+<!-- The site was abandoned and Boeing wasn't taking any steps to keep the site safe from dry brush buildup. The Fire killed 3, burned about 100,000 acres and 
+destroyed 1,500 structures in and around Malibu -->
 
 # Negative Press and Lawsuits (cont'd)
 - "Boeing employee wins racial harassment, discrimination lawsuit against company, which has 5 lawsuits on the way", 15 Jul 2018
+  <!-- Boeing says proper corporate channels weren't followed, but doesn't deny the descrimination of the employee -->
 
 - Boeing wrongfully fired an employee who sounded alrms over repeated alleged safety violations
+<!-- This firing was for an employee at the North Carolina Dreamliner factory, for a company that says safety is a priority and workers should be able to speak their mind
+they sure haven't been letting employees speak their mind about safety concerns -->
   
 - Boeing to pay $57 million to settle a lawsuit in which employees accused the company of mismanaging their 401(k) retirement plans
 
