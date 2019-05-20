@@ -80,10 +80,10 @@ The new strategy includes performance targets that will lead to substantial impr
 
 # Corporate Beliefs - Ethics and compliance
 ##
-- Leadership Matters
+- Leadership Matters  ![](https://bit.ly/2Wc6Qrp, "Compliance Risk Management board"){width=30%}
 - Compliance  
 <!-- TODO: Push image to the right -->
-![](https://bit.ly/2Wc6Qrp, "Compliance Risk Management board"){width=30%}
+
 - Speaking up <!-- <- Lawsuit -->
 - Anti-Corruption Program <!-- <- Lawsuit -->
 <!-- ^ Talking points ^
@@ -150,7 +150,7 @@ Having diverse employees, business partners and community relationships is vital
  -->
   
 # 787 Dreamliner Safety Concerns
-South Carolina Factory producing 787 Dreamliners  
+- South Carolina Factory producing 787 Dreamliners  
   - Production very rushed, safety concerns ignored by mgmt
   - Metal shavings, string of lights and a ladder all left inside the bodies of planes that the Federal Aviation Administration (F.A.A.) took on test flights
 <!-- Talk about their corporate beliefs from the previous slide where they said they were promoting a safe work environment -->
@@ -178,14 +178,17 @@ TODO: Add talking points for each lawsuit
 
 # Sources
 ### Corporate Beliefs
-- http://www.boeing.com/principles/  
+Our Principles. (n.d.). Retrieved May 20, 2019, from http://www.boeing.com/principles/
 
 ### Negative Press and Lawsuits
-- https://www.miamiherald.com/news/nation-world/national/article229075449.html
-- https://www.bloomberg.com/news/articles/2019-02-06/boeing-sued-for-negligence-in-wildfire-that-devastated-malibu  
+Duncan, C. (2019, April 10). Lawsuits pile up against Boeing in two 737 Max crashes. Retrieved May 20, 2019, from https://www.miamiherald.com/news/nation-world/national/article229075449.html
+
+Pettersson, E. (n.d.). Boeing Sued for Negligence in Wildfire That Devastated Malibu. Retrieved May 20, 2019, from https://www.bloomberg.com/news/articles/2019-02-06/boeing-sued-for-negligence-in-wildfire-that-devastated-malibu 
 
 # Sources (cont'd)
 ### Negative Press and Lawsuits
-- https://www.business-humanrights.org/en/usa-boeing-employee-wins-racial-discrimination-harassment-lawsuit-against-co  
-- https://abcnews4.com/news/local/lawsuit-boeing-lied-on-inspection-records-to-fire-union-worker-who-voiced-safety-concerns  
-- https://www.reuters.com/article/us-boeing-401k-settlement-idUSKCN0SU2LD20151105
+USA: Boeing employee wins racial discrimination & harassment lawsuit against co. (2018, July 17). Retrieved from https://www.business-humanrights.org/en/usa-boeing-employee-wins-racial-discrimination-harassment-lawsuit-against-co
+
+Tripp, D. (n.d.). Lawsuit: Boeing lied on inspection records to fire union worker who voiced safety concerns. Retrieved May 20, 2019, from https://abcnews4.com/news/local/lawsuit-boeing-lied-on-inspection-records-to-fire-union-worker-who-voiced-safety-concerns
+
+Boeing to pay $57 million to settle 401(k) lawsuit. (2015, November 05). Retrieved May 20, 2019, from https://www.reuters.com/article/us-boeing-401k-settlement-idUSKCN0SU2LD20151105
